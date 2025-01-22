@@ -27,3 +27,6 @@ def function(a):
 def function2(b):
     print(b)
     returns
+
+def function3(c):
+    pass

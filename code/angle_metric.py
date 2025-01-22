@@ -23,3 +23,7 @@ def angle_distance(a, b):
 def function(a):
     print(a)
     return
+
+def function2(b):
+    print(b)
+    returns
